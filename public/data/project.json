@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "image": "https://i.ibb.co.com/0byLqKh/Screenshot-39.png",
+    "name": "Super Market",
+    "description": "A modern online supermarket platform for daily essentials shopping.",
+    "big_description": "Super Market is a full-featured online grocery platform where users can browse daily essentials, filter products by category, search items easily, and add them to cart. It offers a smooth checkout system and responsive design for better user experience.",
+    "skilled": ["React", "Node.js", "MongoDB", "Tailwind"],
+    "project_link": {
+      "live": "https://new-market-35fcc.web.app/",
+      "github": "https://github.com/mskazishakil/new-market"
+    }
+  },
+  {
+    "id": "2",
+    "image": "https://i.ibb.co.com/fGSYXjhR/Screenshot-38.png",
+    "name": "Big Commerce",
+    "description": "A scalable e-commerce application with advanced features.",
+    "big_description": "Big Commerce is a powerful e-commerce web application built for scalability and performance. It includes product management, secure authentication, shopping cart system, and payment integration with a clean and intuitive user interface.",
+    "skilled": ["React", "Firebase", "Tailwind", "Stripe"],
+    "project_link": {
+      "live": "https://big-ecommerce-a234a.web.app/",
+      "github": "https://github.com/mskazishakil/big-e-commerce"
+    }
+  },
+  {
+    "id": "3",
+    "image": "https://i.ibb.co.com/qFngYqdD/Screenshot-37.png",
+    "name": "Food Village",
+    "description": "A food ordering platform with real-time features.",
+    "big_description": "Food Village is an interactive food ordering web app where users can explore various cuisines, view menus, and order meals. It includes real-time order tracking, responsive UI, and smooth navigation for an enhanced user experience.",
+    "skilled": ["React", "Node.js", "MongoDB", "Tailwind"],
+    "project_link": {
+      "live": "https://food-village-3be62.web.app/",
+      "github": "https://github.com/mskazishakil/food-village"
+    }
+  }
+]
