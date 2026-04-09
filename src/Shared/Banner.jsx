@@ -323,7 +323,7 @@ const Banner = () => {
               View My Work
             </button>
             <a
-              href="/src/CV/Untitled document (6).pdf"
+              href="/CV.pdf"
               download
               className="flex items-center gap-2 text-[11px] font-bold tracking-[0.15em] uppercase rounded-full px-8 py-3.5 transition-all duration-300 text-[#c8e644] border border-[#c8e644] bg-transparent hover:bg-[rgba(200,230,68,0.1)] hover:-translate-y-1"
             >
