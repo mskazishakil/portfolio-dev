@@ -2,7 +2,7 @@ import React from 'react';
 import { createBrowserRouter } from 'react-router-dom';
 import Home from '../Page/Home';
 import Details from '../Shared/Details';
-import MainLayout from '../LayOut/MainLayout';
+import MainLayout from '../Layout/MainLayout';
 import Error from '../Shared/Error';
 
 
@@ -31,3 +31,13 @@ const Root = createBrowserRouter([
 
 ])
 export default Root;
+
+
+
+
+
+
+
+
+
+
